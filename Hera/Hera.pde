@@ -1,6 +1,6 @@
 PImage hera, e1i1, e1i2, e1i3, e2i1, e2i2, e2i3, e3, e4i1, e4i2, e4i3, e5i1, e5i2, e5i3, e6, e7i1, e7i2, e7i3, e7i4, e8i1, e8i2, e9i1, e9i2, e9i3, e10i1, e10i2, e10i3, e11i1, e11i2, e11i3, e12, e13i1, e13i2, e13i3, e14i1, e14i2, e14i3, fin;
 PFont text;
-int a = 10;
+int a = 1;
 int b = 860;
 int b2 = 860;
 int c= -870;
